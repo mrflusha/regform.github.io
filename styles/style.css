@@ -2,4 +2,6 @@
 
 container mt-4{		
 	font-family: 'Anonymous Pro', monospace;
+	margin: auto;
+	border: 1px solid #5D6D7E;
 }
