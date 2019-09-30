@@ -1,14 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
 
 *{
-margin:0;	
+	min-width: 250px;	
+	margin:auto;	
 }
 
-.regForm{	
+.regForm{
+	line-height: 5;
+	display: block;
 	text-align:center;
-	display:block;
-	font-family: 'Anonymous Pro', monospace;
-	margin-top: 50%;
-	margin-right: 50%;
+	font-family: 'Anonymous Pro', monospace;	
 	border: 1px solid #5D6D7E;
+}
+
+.footer{
+	margin-right: auto;
+	margin-top: auto;
+	line-height: 5;
+	text-align: center;
+	color: #FFF;
+	background-color: #000;
 }
