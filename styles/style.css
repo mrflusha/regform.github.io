@@ -3,6 +3,7 @@
 .form{	
 	display:block;
 	font-family: 'Anonymous Pro', monospace;
-	margin: auto;
+	margin-top: 50%;
+	margin-right: 50%;
 	border: 1px solid #5D6D7E;
 }
