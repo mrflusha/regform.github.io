@@ -1,5 +1,5 @@
-container mt-4{	
-	margin-top:auto;
-	margin-right:auto;
-	font-family: 'anonymous pro';
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+
+container mt-4{		
+	font-family: 'Anonymous Pro', monospace;
 }
